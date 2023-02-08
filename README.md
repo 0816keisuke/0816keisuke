@@ -1,7 +1,7 @@
 # Hi there, I'm Keisuke 👋 <img align="right" alt="0816keisuke" src="https://komarev.com/ghpvc/?username=0816keisuke&style=for-the-badge"/>
 
 I am Ph.D student at [Waseda University](https://www.waseda.jp/top/en/) 🧑🏼‍🎓  
-I am studying computer science, especially Combinatorial Optimization utilizing quantum computer/Ising machine.
+I am studying computer science, especially combinatorial optimization utilizing quantum computer.
 
 My interest :
 - Mathmatical optimization
