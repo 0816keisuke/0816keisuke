@@ -41,29 +41,29 @@ My interest :
 
 ### 査読付き論文
 
-1. <u>K. Fukada</u>, M. Parizy, Y. Tomita, and N. Togawa, “A three-stage annealing method solving slot-placement problems using an Ising machine,”IEEE Access, vol. 9, pp. 134413–134426, 2021.
+1. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “A three-stage annealing method solving slot-placement problems using an Ising machine,”IEEE Access, vol. 9, pp. 134413–134426, 2021.
 
 ### 国際学会
 
-2. <u>K. Fukada</u>, M. Parizy, Y. Tomita, and N. Togawa, “Solving slot placement problems using an Ising machine with the initial process and its evaluation,” 2021 Adiabatic Quantum Computing Conference, Jun. 2021.
+2. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “Solving slot placement problems using an Ising machine with the initial process and its evaluation,” 2021 Adiabatic Quantum Computing Conference, Jun. 2021.
 
-3. K. Takasaki, K. Hisafuru, R. Negishi, K. Yamashita, <u>K. Fukada</u>, T. Wakaizumi, and N. Togawa, “An autonomous driving system utilizing image processing accelerated by FPGA,” in 2021 International Conference on Field-Programmable Technology (ICFPT), IEEE, 2021, pp. 1--4.
+3. K. Takasaki, K. Hisafuru, R. Negishi, K. Yamashita, ***K. Fukada***, T. Wakaizumi, and N. Togawa, “An autonomous driving system utilizing image processing accelerated by FPGA,” in 2021 International Conference on Field-Programmable Technology (ICFPT), IEEE, 2021, pp. 1--4.
 
-4. <u>K. Fukada</u> and N. Togawa, “Repeating Ising machines to solve combinatorial optimization problems,”28th Asia and South Pacific Design Automation Conference (ASP-DAC) 2023, Jan. 2023.
+4. ***K. Fukada*** and N. Togawa, “Repeating Ising machines to solve combinatorial optimization problems,”28th Asia and South Pacific Design Automation Conference (ASP-DAC) 2023, Jan. 2023.
 
-5. <u>K. Fukada</u>, M. Parizy, Y. Tomita, and N. Togawa, “Multi-Stage Annealing Method using Ising Machines and its Evaluations on Combinatorial Optimization Problems,” 2021 Adiabatic Quantum Computing Conference, Jun. 2023.
+5. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “Multi-Stage Annealing Method using Ising Machines and its Evaluations on Combinatorial Optimization Problems,” 2021 Adiabatic Quantum Computing Conference, Jun. 2023.
 
 ### 国内学会
 
-6. <u>深田 佳佑</u>, パリジ マチュー，富田 憲範, 戸川 望, “初期処理を導入したイジング計算機によるスロット配置問題の解法,” 量子ソフトウェア(QS)研究会, vol. 2021, no. 5, pp. 1–9, 2021.
+6. ***深田 佳佑***, パリジ マチュー，富田 憲範, 戸川 望, “初期処理を導入したイジング計算機によるスロット配置問題の解法,” 量子ソフトウェア(QS)研究会, vol. 2021, no. 5, pp. 1–9, 2021.
 
-7. <u>深田 佳佑</u>, パリジ マチュー，富田 憲範, 戸川 望, “さまざまなイジング計算機による組合せ最適化問題の解法と比較,” 量子ソフトウェア(QS)研究会, vol. 2022, no. 3, pp. 1–12, 2022.
+7. ***深田 佳佑***, パリジ マチュー，富田 憲範, 戸川 望, “さまざまなイジング計算機による組合せ最適化問題の解法と比較,” 量子ソフトウェア(QS)研究会, vol. 2022, no. 3, pp. 1–12, 2022.
 
-8. <u>深田 佳佑</u>, パリジ マチュー，富田 憲範, 戸川 望, “イジングマシンを繰り返し用いるイテレーティブアニーリング手法と組合せ最適化問題の評価,” 研究報告システムLSの設計技術(SLDM), vol. 2022, no. 18, pp. 1-6, 2022.
+8. ***深田 佳佑***, パリジ マチュー，富田 憲範, 戸川 望, “イジングマシンを繰り返し用いるイテレーティブアニーリング手法と組合せ最適化問題の評価,” 研究報告システムLSの設計技術(SLDM), vol. 2022, no. 18, pp. 1-6, 2022.
 
-9. <u>深田 佳佑</u>, パリジ マチュー，富田 憲範, 戸川 望, “実イジングマシンを反復的に用いるイテレーティブアニーリングと組合せ最適化問題の評価,” IEEE Circuits and Systems Society Japan Joint Chapter Young CAS Researchers Workshop, Nov. 2022.
+9. ***深田 佳佑***, パリジ マチュー，富田 憲範, 戸川 望, “実イジングマシンを反復的に用いるイテレーティブアニーリングと組合せ最適化問題の評価,” IEEE Circuits and Systems Society Japan Joint Chapter Young CAS Researchers Workshop, Nov. 2022.
 
-10. <u>深田 佳佑</u>, 戸川 望, “イジングマシンと古典計算機を組み合せたハイブリッドイテレーティブアニーリングによる組合せ最適化問題の評価,” VLSI設計技術研究会(VLD), 2023.
+10. ***深田 佳佑***, 戸川 望, “イジングマシンと古典計算機を組み合せたハイブリッドイテレーティブアニーリングによる組合せ最適化問題の評価,” VLSI設計技術研究会(VLD), 2023.
 
 ### 受賞・採択
 
