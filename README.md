@@ -94,5 +94,5 @@ Total: 20
 ### 受賞・採択/Award, Fellowship
 
 1. 2022/04〜2024/03, 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム(W-SPRING)
-2. 2023/01 ASP-DAC 2023 WIP Session(国際会議-業績4)においてPostar Awardを受賞
+2. 2023/01 ASP-DAC 2023 WIP Session(国際会議-業績4)において[Postar Awardを受賞](https://www.aspdac.com/aspdac2023/photo/wip6.jpg)
 3. 2024/04~2025/03 日本学術振興会特別研究員(DC2)
