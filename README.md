@@ -63,7 +63,7 @@ etc. ...
 
 ## Achievements
 
-Total: 18
+Total: 19
 
 ### 査読付き論文/Journal
 
@@ -75,9 +75,10 @@ Total: 18
 1. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[Solving slot placement problems using an Ising machine with the initial process and its evaluation](https://aqc2021.org/poster2/poster_F4.html),” 2021 Adiabatic Quantum Computing Conference, Jun. 2021.
 2. K. Takasaki, K. Hisafuru, R. Negishi, K. Yamashita, ***K. Fukada***, T. Wakaizumi, and N. Togawa, “[An autonomous driving system utilizing image processing accelerated by FPGA](https://ieeexplore.ieee.org/document/9609937),” in 2021 International Conference on Field-Programmable Technology (ICFPT), IEEE, 2021, pp. 1--4.
 3. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, "[Benchmarking Various Types of Ising Machines](https://indico.ictp.it/event/9803/other-view?view=ictptimetable)," 2022 Adiabatic Quantum Computing Conference, Jun. 2022.
-4. ***K. Fukada*** and N. Togawa, “[Repeating Ising machines to solve combinatorial optimization problems](https://www.aspdac.com/aspdac2023/wip/),” 28th Asia and South Pacific Design Automation Conference (ASP-DAC) 2023, Jan. 2023.
-5. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[Multi-Stage Annealing Method using Ising Machines and its Evaluations on Combinatorial Optimization Problems](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html),” 2023 Adiabatic Quantum Computing Conference, Jun. 2023.
-6. T. Noguchi, K. Fukada, S. Bao, and N. Togawa, "Trip Planning Based on subQUBO Annealing,” 2023 Adiabatic Quantum Computing Conference, Jun. 2023.
+4. K. Hisafuru, R. Negishi, S. Kawakami, D. Sato, K. Yamashita, ***K. Fukada***, and N. Togawa, “[Autonomous driving system with feature extraction using a binarized autoencoder](https://ieeexplore.ieee.org/abstract/document/9974267?casa_token=miBM4sng_PEAAAAA:dPcsDdlw5vQCLu6n0S4V9pDHu7AlTgTXJqptuyvrIRh46fAzfyuOKWioe0Jjlfw5o-baNop_B2LC),” in 2022 International Conference on Field Programmable Technology (ICFPT). IEEE, 2022, pp. 1–4.
+5. ***K. Fukada*** and N. Togawa, “[Repeating Ising machines to solve combinatorial optimization problems](https://www.aspdac.com/aspdac2023/wip/),” 28th Asia and South Pacific Design Automation Conference (ASP-DAC) 2023, Jan. 2023.
+6. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[Multi-Stage Annealing Method using Ising Machines and its Evaluations on Combinatorial Optimization Problems](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html),” 2023 Adiabatic Quantum Computing Conference, Jun. 2023.
+7. T. Noguchi, K. Fukada, S. Bao, and N. Togawa, "Trip Planning Based on subQUBO Annealing,” 2023 Adiabatic Quantum Computing Conference, Jun. 2023.
 
 ### 国内学会/Domestic Conference
 
