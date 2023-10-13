@@ -70,7 +70,7 @@ Total: 18
 1. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[A three-stage annealing method solving slot-placement problems using an Ising machine](https://ieeexplore.ieee.org/document/9550770),” IEEE Access, vol. 9, pp. 134413–134426, 2021.
 2. T. Noguchi, ***K. Fukada***, S. bao, Y. Tomita, and N. Togawa, “[Trip planning based on subQUBO annealing](https://ieeexplore.ieee.org/abstract/document/10247510),” IEEE Access, vol. 11, pp. 100383-100395, 2023.
 
-### 国際学会/International Conference
+### 国際会議/International Conference
 
 1. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[Solving slot placement problems using an Ising machine with the initial process and its evaluation](https://aqc2021.org/poster2/poster_F4.html),” 2021 Adiabatic Quantum Computing Conference, Jun. 2021.
 2. K. Takasaki, K. Hisafuru, R. Negishi, K. Yamashita, ***K. Fukada***, T. Wakaizumi, and N. Togawa, “[An autonomous driving system utilizing image processing accelerated by FPGA](https://ieeexplore.ieee.org/document/9609937),” in 2021 International Conference on Field-Programmable Technology (ICFPT), IEEE, 2021, pp. 1--4.
@@ -91,6 +91,6 @@ Total: 18
 
 ### 受賞・採択/Award, Fellowship
 
-1. 2022.04〜2025.03, 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム(W-SPRING)
-2. ASP-DAC 2023 WIP Session(国際学会-業績4)においてPostar Awardを受賞
-3. 2024.04~2025.03 日本学術振興会特別研究員(DC2)
+1. 2022/04〜2024/03, 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム(W-SPRING)
+2. 2023/01 ASP-DAC 2023 WIP Session(国際会議-業績4)においてPostar Awardを受賞
+3. 2024/04~2025/03 日本学術振興会特別研究員(DC2)
