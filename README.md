@@ -15,7 +15,7 @@ etc. ...
 
 ## Career
 
-### Japanese(日本語)
+### Japanese/日本語
 
 - 2021/03
   - 早稲田大学基幹理工学部情報通信学科 卒
@@ -26,7 +26,7 @@ etc. ...
 - 2024.04~2025.03
   - 日本学術振興会特別研究員(DC2)
 
-### English(英語)
+### English/英語
 
 - 03/2021
   - Bachelor of Engineering, Waseda University
@@ -65,12 +65,12 @@ etc. ...
 
 Total: 18
 
-### 査読付き論文
+### 査読付き論文/Journal
 
 1. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[A three-stage annealing method solving slot-placement problems using an Ising machine](https://ieeexplore.ieee.org/document/9550770),” IEEE Access, vol. 9, pp. 134413–134426, 2021.
 2. T. Noguchi, ***K. Fukada***, S. bao, Y. Tomita, and N. Togawa, “[Trip planning based on subQUBO annealing](https://ieeexplore.ieee.org/abstract/document/10247510),” IEEE Access, vol. 11, pp. 100383-100395, 2023.
 
-### 国際学会
+### 国際学会/International Conference
 
 1. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[Solving slot placement problems using an Ising machine with the initial process and its evaluation](https://aqc2021.org/poster2/poster_F4.html),” 2021 Adiabatic Quantum Computing Conference, Jun. 2021.
 2. K. Takasaki, K. Hisafuru, R. Negishi, K. Yamashita, ***K. Fukada***, T. Wakaizumi, and N. Togawa, “[An autonomous driving system utilizing image processing accelerated by FPGA](https://ieeexplore.ieee.org/document/9609937),” in 2021 International Conference on Field-Programmable Technology (ICFPT), IEEE, 2021, pp. 1--4.
@@ -79,7 +79,7 @@ Total: 18
 5. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[Multi-Stage Annealing Method using Ising Machines and its Evaluations on Combinatorial Optimization Problems](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html),” 2023 Adiabatic Quantum Computing Conference, Jun. 2023.
 6. T. Noguchi, K. Fukada, S. Bao, and N. Togawa, "Trip Planning Based on subQUBO Annealing,” 2023 Adiabatic Quantum Computing Conference, Jun. 2023.
 
-### 国内学会
+### 国内学会/Domestic Conference
 
 1. ***深田 佳佑***, パリジ マチュー，富田 憲範, 戸川 望, “[初期処理を導入したイジング計算機によるスロット配置問題の解法](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=210552&item_no=1),” 量子ソフトウェア(QS)研究会, vol. 2021, no. 5, pp. 1–9, 2021.
 2. ***深田 佳佑***, パリジ マチュー，富田 憲範, 戸川 望, “[さまざまなイジング計算機による組合せ最適化問題の解法と比較](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=217625&item_no=1),” 量子ソフトウェア(QS)研究会, vol. 2022, no. 3, pp. 1–12, 2022.
@@ -89,7 +89,7 @@ Total: 18
 6. ***深田 佳佑***, 戸川 望, “[イジングマシンと古典計算機を組み合せたハイブリッドイテレーティブアニーリングによる組合せ最適化問題の評価](https://ken.ieice.org/ken/paper/20230707nCvm/),” 信学技報, vol. 123, no. 98, pp. 119-124, 2023.
 7. 野口 竜弥, ***深田 佳佑***, 鮑 思雅, 戸川 望, 部分QUBOアニーリングによる複数日旅程最適化問題の解法," VLSI設計技術研究会(VLD), 2023. (投稿済み)
 
-### 受賞・採択
+### 受賞・採択/Award, Fellowship
 
 1. 2022.04〜2025.03, 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム(W-SPRING)
 2. ASP-DAC 2023 WIP Session(国際学会-業績4)においてPostar Awardを受賞
