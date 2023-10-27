@@ -69,7 +69,6 @@ Total: 20
 
 1. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[A three-stage annealing method solving slot-placement problems using an Ising machine](https://ieeexplore.ieee.org/document/9550770),” IEEE Access, vol. 9, pp. 134413–134426, 2021.
 2. T. Noguchi, ***K. Fukada***, S. bao, Y. Tomita, and N. Togawa, “[Trip planning based on subQUBO annealing](https://ieeexplore.ieee.org/abstract/document/10247510),” IEEE Access, vol. 11, pp. 100383-100395, 2023.
-3. ***K. Fukada***, T. Shirai, and N. Togawa, “Hybrid Iterative Annealing Method Using a Quantum Annealer and a Classical Computer,” in 2024 IEEE 42nd International Conference on Consumer Electronics (ICCE), 2024. (投稿済み)
 
 ### 国際会議/International Conference
 
@@ -80,6 +79,7 @@ Total: 20
 5. ***K. Fukada*** and N. Togawa, “[Repeating Ising machines to solve combinatorial optimization problems](https://www.aspdac.com/aspdac2023/wip/),” 28th Asia and South Pacific Design Automation Conference (ASP-DAC) 2023, Jan. 2023.
 6. ***K. Fukada***, M. Parizy, Y. Tomita, and N. Togawa, “[Multi-Stage Annealing Method using Ising Machines and its Evaluations on Combinatorial Optimization Problems](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html),” 2023 Adiabatic Quantum Computing Conference, Jun. 2023.
 7. T. Noguchi, K. Fukada, S. Bao, and N. Togawa, "Trip Planning Based on subQUBO Annealing,” 2023 Adiabatic Quantum Computing Conference, Jun. 2023.
+8. ***K. Fukada***, T. Shirai, and N. Togawa, “Hybrid Iterative Annealing Method Using a Quantum Annealer and a Classical Computer,” in 2024 IEEE 42nd International Conference on Consumer Electronics (ICCE), Jan. 2024. (Accepted)
 
 ### 国内学会/Domestic Conference
 
