@@ -61,7 +61,7 @@ etc. ...
 
 ## Achievements
 
-Total: 21
+Total: 22
 
 ### 査読付き論文/Journal
 
@@ -125,7 +125,8 @@ Total: 21
 
 ### 受賞・採択/Award, Fellowship
 
-1. 早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム(W-SPRING), 04/2022 ~ 03/2024.
+1. [早稲田オープン・イノベーション・エコシステム挑戦的研究プログラム(W-SPRING)](https://www.waseda.jp/wspring/), 04/2022 ~ 03/2024.
 2. Keisuke Fukada, [Postar Award](https://www.aspdac.com/aspdac2023/photo/wip6.jpg), ASP-DAC 2023 WIP Session, 01/2023.
-3. 日本学術振興会特別研究員(DC2), 04/2024 ~ 03/2025.
+3. [日本学術振興会特別研究員(DC2)](https://www.jsps.go.jp/j-pd/pd_sin.html), 04/2024 ~ 03/2025.
 4. 深田 佳佑, 戸川 望, 優秀技術報告賞, 電子情報通信学会 VLSI設計技術研究会, 11/2023.
+5. Keisuke Fukada, Tatsuhiko Shirai and Nozomu Togawa, [Best Student Paper Award](https://icce.org/2024/awards/), ICCE 2024.
