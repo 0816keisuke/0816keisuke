@@ -95,7 +95,7 @@ Total: 22
 7. **[Trip Planning Based on subQUBO Annealing](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html)**  
    Tatsuya Noguchi, <ins>Keisuke Fukada</ins>, Siya Bao, and Nozomu Togawa  
    Adiabatic Quantum Computing Conference, Jun. 2023.
-8. **Hybrid Iterative Annealing Method Using a Quantum Annealer and a Classical Computer**  
+8. **[Hybrid Iterative Annealing Method Using a Quantum Annealer and a Classical Computer](https://ieeexplore.ieee.org/abstract/document/10444173)**  
    <ins>Keisuke Fukada</ins>, Tatsuhiko Shirai, and Nozomu Togawa  
    Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE), Jan. 2024. (Accepted)
 
