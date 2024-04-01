@@ -66,7 +66,7 @@ Total: 22
 ### 査読付き論文/Journal
 
 1. **[A three-stage annealing method solving slot-placement problems using an Ising machine](https://ieeexplore.ieee.org/document/9550770)**  
-   <ins>Keisuke. Fukada</ins>, Matthieu Parizy, Yoshinori Tomita, and Nozomu Togawa  
+   <ins>Keisuke Fukada</ins>, Matthieu Parizy, Yoshinori Tomita, and Nozomu Togawa  
    IEEE Access, vol. 9, pp. 134413–134426, 2021.
 2. **[Trip planning based on subQUBO annealing](https://ieeexplore.ieee.org/abstract/document/10247510)**  
    Tatsuya Noguchi, <ins>Keisuke Fukada</ins>, Siya Bao, Yoshinori Tomita, and Nozomu Togawa  
