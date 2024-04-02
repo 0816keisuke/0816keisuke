@@ -97,7 +97,7 @@ Total: 22
    Adiabatic Quantum Computing Conference, Jun. 2023.
 8. **[Hybrid Iterative Annealing Method Using a Quantum Annealer and a Classical Computer](https://ieeexplore.ieee.org/abstract/document/10444173)**  
    <ins>Keisuke Fukada</ins>, Tatsuhiko Shirai, and Nozomu Togawa  
-   Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE), Jan. 2024. (Accepted)
+   Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE), Jan. 2024.
 
 ### 国内学会/Domestic Conference
 
