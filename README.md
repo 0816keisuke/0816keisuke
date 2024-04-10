@@ -33,7 +33,7 @@ etc. ...
 |2021/03|Bachelor of Engineering, Waseda University|
 |2022/03|Master of Engineering, Graduate School of Science and Engineering, Waseda University (Early Degree Completion)|
 |~ Now|Ph.D. Program, Graduate School of Science and Engineering, Waseda University|
-|2024/04<br>~2025/03|Research Fellowship for Young Scientists, Japan Society for the Promotion of Science|
+|2024/04<br>~2026/03|Research Fellowship for Young Scientists, Japan Society for the Promotion of Science|
 
 
 ## 🤝 Connect with me
