@@ -72,7 +72,7 @@ Total: 22
    <ins>Keisuke Fukada</ins>, Matthieu Parizy, Yoshinori Tomita, and Nozomu Togawa  
    IEEE Access, vol. 9, pp. 134413–134426, 2021.
 2. **[Trip planning based on subQUBO annealing](https://ieeexplore.ieee.org/abstract/document/10247510)**  
-   Tatsuya Noguchi, <ins>Keisuke Fukada</ins>, Siya Bao, Yoshinori Tomita, and Nozomu Togawa  
+   Tatsuya Noguchi, <ins>Keisuke Fukada</ins>, Siya Bao, and Nozomu Togawa  
    IEEE Access, vol. 11, pp. 100383-100395, 2023.
 
 ### 査読付き国際会議/International Conference
