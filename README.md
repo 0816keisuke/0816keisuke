@@ -80,10 +80,12 @@ Total: 22
 1. **[An autonomous driving system utilizing image processing accelerated by FPGA](https://ieeexplore.ieee.org/document/9609937)**  
    Kazunari Takasaki, Kota Hisafuru, Ryotaro Negishi, Kazuki Yamashita, <ins>Keisuke Fukada</ins>, Tomoya Wakaizumi, and Nozomu Togawa  
    Proc. 2021 International Conference on Field-Programmable Technology (ICFPT), Dec. 2021, pp. 1-4.
-2. **[Hybrid Iterative Annealing Method Using a Quantum Annealer and a Classical Computer](https://ieeexplore.ieee.org/abstract/document/10444173)**  
+2. **[Autonomous driving system with feature extraction using a binarized autoencoder](https://ieeexplore.ieee.org/document/9974267)**  
+   Kota Hisafuru, Ryotaro Negishi, Soma Kawakami, Dai Sato, Kazuki Yamashita, <ins>Keisuke Fukada</ins>, and Nozomu Togawa  
+   Proc. 2022 International Conference on Field Programmable Technology (ICFPT), Dec. 2022, pp. 1–4.
+3. **[Hybrid Iterative Annealing Method Using a Quantum Annealer and a Classical Computer](https://ieeexplore.ieee.org/abstract/document/10444173)**  
    <ins>Keisuke Fukada</ins>, Tatsuhiko Shirai, and Nozomu Togawa  
    Proc. 2024 IEEE International Conference on Consumer Electronics (ICCE), Jan. 2024.
-
 ### 国際会議
 
 1. **[Solving slot placement problems using an Ising machine with the initial process and its evaluation](https://aqc2021.org/poster2/poster_F4.html)**  
@@ -92,16 +94,13 @@ Total: 22
 2. **[Benchmarking Various Types of Ising Machines](https://indico.ictp.it/event/9803/other-view?view=ictptimetable)**  
    <ins>Keisuke Fukada</ins>, Matthieu Parizy, Yoshinori Tomita, and Nozomu Togawa  
    Adiabatic Quantum Computing Conference, Jun. 2022.
-3. **[Autonomous driving system with feature extraction using a binarized autoencoder](https://ieeexplore.ieee.org/document/9974267)**  
-   Kota Hisafuru, Ryotaro Negishi, Soma Kawakami, Dai Sato, Kazuki Yamashita, <ins>Keisuke Fukada</ins>, and Nozomu Togawa  
-   Proc. 2022 International Conference on Field Programmable Technology (ICFPT), Dec. 2022, pp. 1–4.
-4. **[Repeating Ising machines to solve combinatorial optimization problems](https://www.aspdac.com/aspdac2023/wip/)**  
+3. **[Repeating Ising machines to solve combinatorial optimization problems](https://www.aspdac.com/aspdac2023/wip/)**  
    <ins>Keisuke Fukada</ins> and Nozomu Togawa  
    Proc. 28th Asia and South Pacific Design Automation Conference (ASP-DAC) 2023, Jan. 2023.
-5. **[Multi-Stage Annealing Method using Ising Machines and its Evaluations on Combinatorial Optimization Problems](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html)**  
+4. **[Multi-Stage Annealing Method using Ising Machines and its Evaluations on Combinatorial Optimization Problems](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html)**  
    <ins>Keisuke Fukada</ins>, Matthieu Parizy, Yoshinori Tomita, and Nozomu Togawa  
    Adiabatic Quantum Computing Conference, Jun. 2023.
-6. **[Trip Planning Based on subQUBO Annealing](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html)**  
+5. **[Trip Planning Based on subQUBO Annealing](https://cquic.unm.edu/events/2023/06/aqc2023-schedule.html)**  
    Tatsuya Noguchi, <ins>Keisuke Fukada</ins>, Siya Bao, and Nozomu Togawa  
    Adiabatic Quantum Computing Conference, Jun. 2023.
 
