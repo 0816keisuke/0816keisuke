@@ -81,6 +81,19 @@ Total: 30
 
 ### 査読付き国際会議/Peer reviewed conference papers
 
+1. **[SubQUBO Annealing Based on Efficient Binary Variable Selection for Combinatorial Optimization Problems with One-Hot Constraints]()**  
+   Tatsuya Noguchi, <u>Keisuke Fukada</u>, Siya bao, and Nozomu Togawa  
+   Proc. 43rd IEEE International Conference on Consumer Electronics (ICCE 2025), pp. 1-2, Las Vegas, NV, USA, Jan. 2025.
+
+1. **[Personalized Course Selection Optimization Using QAOA]()**  
+   Takeru Ota, <u>Keisuke Fukada</u>, Tatsuhiko Shirai, and Nozomu Togawa  
+   Proc. 43rd IEEE International Conference on Consumer Electronics (ICCE 2025), pp. 1-2, Las Vegas, NV, USA, Jan. 2025.
+
+1. **[Solving Task-Select Problems Using a Quantum Annealer]()**  
+   Koki Mita, Yuta Yachi, <u>Keisuke Fukada</u>, and Nozomu Togawa  
+   Proc. 43rd IEEE International Conference on Consumer Electronics (ICCE 2025), pp. 1-2, Las Vegas, NV, USA, Jan. 2025.
+
+
 1. **[Large-sized VQE Performance Profiling in Quantum Chemistry using a Multi-node Quantum Simulator](https://qce.quantum.ieee.org/2024/)**  
    <u>Keisuke Fukada</u>, Tatsuhiko Shirai, Mikio Morita, Yoshinori Tomita, Koji Kimura, and Nozomu Togawa  
    Proc. IEEE International Conference on Quantum Computing and Engineering (QCE), Montréal, Québec, Canada, Sep. 2024.
@@ -130,7 +143,15 @@ Total: 30
 
 ### 国内学会/Domestic Conference
 
-1. **[補正処理を導入した部分QUBOアニ ーリングによる複数日インターモーダル旅程最適化](https://ken.ieice.org/ken/paper/20240719hc3O/)**  
+1. **[1-hot制約付き問題に対する二値変数選択法を用いた部分QUBOアニーリング手法]()**  
+   野口 竜弥, <u>深田 佳佑</u>, 鮑 思雅, 戸川 望  
+   信学技報, vol. XXX, no. XXX, VLD-XXX, pp. XXX-XXX, 大分市, Nov. 2024.
+
+1. **[QAOAを用いた履修最適化の一検討]()**  
+   太田 岳, <u>深田 佳佑</u>, 戸川 望  
+   信学技報, vol. XXX, no. XXX, VLD-XXX, pp. XXX-XXX, 大分市, Nov. 2024.
+
+1. **[補正処理を導入した部分QUBOアニーリングによる複数日インターモーダル旅程最適化](https://ken.ieice.org/ken/paper/20240719hc3O/)**  
    野口 竜弥, <u>深田 佳佑</u>, 鮑 思雅, 戸川 望  
    信学技報, vol. 124, no. 111, VLD2024-24, pp. 128–133, 弘前市, Jul. 2024.
 
