@@ -63,7 +63,7 @@ etc. ...
 
 ## Achievements
 
-Total: 30
+Total: 35
 
 ### 査読付き論文/Peer reviewed journal articles
 
